@@ -1,0 +1,203 @@
+body{
+text-align: center;
+  background-color: #f7f7f7;
+  margin: 0;
+  font-family: 'Lora', serif;
+  color: #393e46;
+}
+
+h1{
+
+font-family: 'Kalam', cursive;
+color: #393e46;
+font-size: 5.62rem
+
+}
+
+h2{
+  font-size: 2.5rem;
+  color: #393e46;
+  font-weight: normal;
+}
+a{
+  color: #393e46;
+}
+
+
+hr{
+  width: 4%;
+  border: dotted;
+  border-bottom: none;
+  margin: 100px auto;
+
+}
+a{
+    font-family: 'Lora', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #929aab;
+}
+
+
+.Page.wrap{
+  height: 400px;
+  width: 400px;
+
+}
+
+.TitleCard{
+  margin: 50px 500px  0 auto;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.IntroMessage{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.programmerCartoon{
+  margin: 50px 500px  0 auto;
+}
+
+.ProfilePictureBackground{
+  opacity: 0.9;
+  height: 100%;
+  width: 40%;
+  position: absolute;
+  right: 0px;
+  bottom: 0;
+}
+
+.middle-container{
+  padding-top: 10px;
+  background-color: #eeeeee;
+
+}
+
+
+
+.cImageContainer{
+  margin-bottom: 100px;
+  clear: right;
+}
+.ProfilePicture{
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  clear: right;
+}
+
+
+.cImageContainer{
+  clear: right;
+
+}
+
+.javaImageContainer{
+  clear: right;
+}
+
+
+.wwwImg{
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  clear: right;
+}
+.cImg{
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  clear: right;
+
+
+}
+.javaImg{
+  height: 20%;
+  width: 20%;
+  float: left;
+  clear: right;
+
+}
+
+
+
+.bottom-container{
+  background-color: #393e46;
+padding: 50px 0 20px;
+}
+
+.top-code-cartoon{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+}
+
+.bottom-code-cartoon{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 300px;
+  bottom: 100px.
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.ContactMeMessage{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.FooterMessage{
+  color: white;
+}
+
+
+  .ContactMebtn {
+    margin-bottom: 50px;
+    background: #393e46;
+    background-image: -webkit-linear-gradient(top, #393e46, #929aab);
+    background-image: -moz-linear-gradient(top, #393e46, #929aab);
+    background-image: -ms-linear-gradient(top, #393e46, #929aab);
+    background-image: -o-linear-gradient(top, #393e46, #929aab);
+    background-image: linear-gradient(to bottom, #393e46, #929aab);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Lora', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .ContactMebtn:hover {
+    background: #eeeeee;
+    background-image: -webkit-linear-gradient(top, #eeeeee, #eeeeee);
+    background-image: -moz-linear-gradient(top, #eeeeee, #eeeeee);
+    background-image: -ms-linear-gradient(top, #eeeeee, #eeeeee);
+    background-image: -o-linear-gradient(top, #eeeeee, #eeeeee);
+    background-image: linear-gradient(to bottom, #eeeeee, #eeeeee);
+    text-decoration: none;
+  }
+  .copyright{
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
